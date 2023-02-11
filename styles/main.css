@@ -1,0 +1,85 @@
+html {
+    background-color: mediumaquamarine;
+    background-image: url("../images/tile.jfif")
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-color: lightskyblue;
+    border-radius: 2pc;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 7.5px;
+    margin-top: 19px;
+    box-shadow: 5px 5px 15px 15px lightgreen;
+}
+header h1 {
+    color: white;
+    text-align: center;
+    font-size: 250%;
+    text-shadow: 4px 4px 4px black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+main p {
+    text-shadow: 2px 2px 2px black;
+    font-size: 140%;
+    color: white;
+    line-height: 2;
+
+}
+
+.rightSideText {
+    margin-left: 340px;
+}
+
+.leftSideText {
+    padding-right: 20px;
+}
+footer p {
+    color: black;
+    width: auto;
+    padding-left: 40%;
+    font-size: 75%;
+}
+
+main img {
+    width: 325px;
+    border-radius: 2pc;
+}
+
+.formatleft {
+    float: left;
+}
+
+.formatright {
+    float: right;
+}
+
+#sleepycat {
+    height: 13.2em;
+}
+
+#surprisedcat {
+    height: 14.5em;
+}
+
+#magnificentcat {
+    height: 14.5em;
+}
+#breadcat {
+    height:14.5em;
+}
+
+#smartcat {
+    height:14.5em;
+}
+
+#blackcat {
+    height:14.5em;
+}
+img {
+    float: left;
+}
